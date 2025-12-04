@@ -1,0 +1,32 @@
+https://app.pitch.com/app/presentation/a6387205-9d9d-494d-8f4c-d1f200dee9d0/db1e66b5-003e-417b-8e10-1f8998def009
+
+
+Healthcare script
+
+Slide 1 - 
+Good evening everyone. Today, I’m presenting on a topic where 'management' isn't just about profits—it's about saving lives. We are going to talk about Quality Management in the Healthcare Industry. We often think medicine is just about doctors and biology, but without the right management systems, even the best doctors can fail. Let's see how we solve this.
+
+Slide 2 -
+First, we need to define our terms. In healthcare, 'Quality' isn't vague. It is strictly defined by the Institute of Medicine. I’ve listed the key domains here. The most critical is Safety—first, do no harm. Then Effectiveness—using evidence-based medicine, not guessing. And Timeliness—because in healthcare, waiting can be fatal. Finally, it must be Patient-centered. If we treat the disease but ignore the human, we haven't achieved quality.
+
+Slide 3 - 
+Why is this topic so urgent? Look at these numbers. A landmark report estimated that nearly 100,000 people die every year due to preventable errors. The crucial takeaway here is the second point: This is usually not because of 'bad doctors.' It is because of bad systems. Maybe the handwriting was unclear, maybe the drug labels looked too similar. Quality Management aims to fix these systems to prevent human error.
+
+Slide 4 - 
+So, how do managers fix these problems? We borrow tools from the industry. The most famous is the PDCA Cycle. Let’s take hospital infections as an example. First, we Plan: we see the infection rate is high. Then we Do: we introduce a new hand-washing station. Then we Check: did the infection rate go down after a month? Finally, we Act: if it worked, we make it a mandatory rule for the whole hospital. It’s a never-ending loop of improvement
+
+Slide 5 -
+Beyond PDCA, we use Lean and Six Sigma. Lean is all about flow. In a hospital, 'waste' isn't just trash—it's wasted time. If a nurse has to walk 10 minutes to find bandages, that's time taken away from patient care. Lean fixes that. Six Sigma, on the other hand, is about precision. We don't want 'mostly good' surgeries. We want zero defects. Six Sigma uses data to ensure that every procedure is performed consistently
+
+Slide 6 -
+Let’s look at a concrete example. Dr. Atul Gawande introduced something very simple: The Surgical Safety Checklist. Before this, surgeons relied on memory. But under stress, memory fails. The checklist forces the team to pause and confirm the basics: Is this the right patient? Is this the right leg we are operating on? Is the equipment sterile? It sounds basic, but it was often overlooked
+
+Slide 7 -
+The results of using this simple piece of paper were shocking. Major complications dropped by over a third. Deaths dropped by nearly half (47%). This case study proves that Quality Management doesn't always need expensive robots. Sometimes, it just needs a standardized process that prevents human error
+
+Slide 8 -
+Finally, where is Quality Management going? The future is Data. Hospitals are now using AI to predict how many patients will arrive on a Friday night, ensuring we have enough staff. We are also using Electronic Health Records to make sure your cardiologist knows what your dentist prescribed, preventing dangerous drug interactions. Data allows us to be proactive rather than reactive
+
+Slide 9 -
+To summarize: Quality management is the hidden backbone of healthcare. It teaches us to fix systems, not just blame people. Whether it’s using the PDCA cycle or a simple checklist, these tools provide structure in chaos. Ultimately, the goal is simple: Reliable, safe care for every patient, every time
+
