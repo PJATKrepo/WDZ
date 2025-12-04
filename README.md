@@ -1,7 +1,7 @@
 # 📊 WDZ | First Studies
 
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Management](https://img.shields.io/badge/Management-Theory-orange?style=for-the-badge)
+![Management](https://img.shields.io/badge/Management-Blue?style=for-the-badge)
 ![PJATK](https://img.shields.io/badge/PJATK-blue?style=for-the-badge)
 
 This repository contains all my laboratory work, case studies, and projects for the **Wstęp do Zarządzania** (Introduction to Management) course taken during the **First Semester** at the Polish-Japanese Academy of Information Technology (PJATK).
