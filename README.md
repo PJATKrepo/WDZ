@@ -11,7 +11,7 @@ This repository contains all my laboratory work, case studies, and projects for 
 ## 📌 Course Overview
 
 * **Course Code:** `WDZ-17`
-* **Lecturer:** [Lecturer Name] | **Instructor:** [Instructor Name]
+* **Lecturer:** Mateusz Kowalik | **Instructor:** Głaszczka Julia
 * **Key Focus Areas:**
     * 🏢 **Organizational Structures:** Understanding hierarchies, span of control, and departmentalization.
     * 📈 **Strategic Analysis:** SWOT, PESTEL, and Porter's 5 Forces analysis.
